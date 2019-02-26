@@ -31,6 +31,11 @@ https://qiskit.org/documentation/index.html
 
 https://qiskit.org/documentation/install.html
 
+*** Terra (the code foundation, for composing quantum programs at the level of circuits and pulses)
+*** Aqua (for building algorithms and applications)
+*** Ignis (for addressing noise and errors)
+*** Aer (for accelerating development via simulators, emulators and debuggers).
+
 * 혹은, 만일 여러분이 이미 Git을 설치했다면, 다음의 커맨드를 실행하세요:
 >> git clone https://github.com/QISKit/qiskit-sdk-py
 

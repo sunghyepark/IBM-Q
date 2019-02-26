@@ -32,4 +32,5 @@ https://qiskit.org/documentation/install.html
 
 * 혹은, 만일 여러분이 이미 Git을 설치했다면, 다음의 커맨드를 실행하세요:
 >> git clone https://github.com/QISKit/qiskit-sdk-py
+
 >> cd qiskit-sdk-py

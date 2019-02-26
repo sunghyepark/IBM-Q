@@ -25,6 +25,9 @@ https://quantumexperience.ng.bluemix.net/qx/editor?codeId=d09efa5f54314fc1ab8973
 QISKit은 OpenQASM과 IBM Q experience (QX)에서 사용할 수 있는 SDK(software development kit)입니다. 이번 항목에서는 Python으로 바로 프로그래밍을 하는 QISkit을 사용하는 방법을 배울 것입니다.
 
 Git download
+
+https://qiskit.org/documentation/install.html
+
 혹은, 만일 여러분이 이미 Git을 설치했다면, 다음의 커맨드를 실행하세요:
 
 >> git clone https://github.com/QISKit/qiskit-sdk-py

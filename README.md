@@ -19,6 +19,8 @@ https://quantumexperience.ng.bluemix.net/qx/editor?codeId=d09efa5f54314fc1ab8973
 
 -> [OPEN QASM 2.0] 창에 python 환경에서 실행할 수 있는 코드 생성됨.
 
+* community : https://quantumexperience.ng.bluemix.net/qx/community
+
 
 # 2. QISKit (Quantum Information Software Kit)
 

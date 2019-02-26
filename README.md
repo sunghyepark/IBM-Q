@@ -28,6 +28,7 @@ https://quantumexperience.ng.bluemix.net/qx/editor?codeId=d09efa5f54314fc1ab8973
 https://qiskit.org/documentation/index.html
 
 * Git download
+
 https://qiskit.org/documentation/install.html
 
 * 혹은, 만일 여러분이 이미 Git을 설치했다면, 다음의 커맨드를 실행하세요:

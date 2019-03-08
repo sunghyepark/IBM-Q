@@ -29,7 +29,7 @@ https://qiskit.org/documentation/index.html
 
 > conda create -n name_of_my_env python=3 : 아나콘다로 python 가상 환경 설정
 
-> source activate name_of_my_env : 가상환경으로 
+> conda activate name_of_my_env : 가상환경으로 
 
 > conda list : 뭘 깔았는지 확인
 

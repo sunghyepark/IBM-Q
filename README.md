@@ -27,7 +27,7 @@ https://quantumexperience.ng.bluemix.net/qx/editor?codeId=d09efa5f54314fc1ab8973
 * QISKit은 OpenQASM과 IBM Q experience (QX)에서 사용할 수 있는 SDK(software development kit)입니다. 이번 항목에서는 Python으로 바로 프로그래밍을 하는 QISkit을 사용하는 방법을 배울 것입니다.
 https://qiskit.org/documentation/index.html
 
--conda create -n name_of_my_env python=3 : 아나콘다로 python 가상 환경 설정
+> conda create -n name_of_my_env python=3 : 아나콘다로 python 가상 환경 설정
 
 -source activate name_of_my_env : 가상환경으로 
 

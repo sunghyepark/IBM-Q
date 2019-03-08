@@ -39,6 +39,7 @@ https://qiskit.org/documentation/index.html
 > pip install qiskit[visualization] qiskit-aqua
 
 
+
 * Git download
 
 https://qiskit.org/documentation/install.html

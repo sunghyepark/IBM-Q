@@ -35,7 +35,7 @@ https://qiskit.org/documentation/install.html
 
 > conda list : 뭘 깔았는지 확인
 
-** RemoveError: 'requests' is a dependency of conda and cannot be removed from -> conda update conda로 
+** RemoveError: 'requests' is a dependency of conda and cannot be removed from -> conda update conda로 해결!
 
 > pip install qiskit qiskit-aqua
 

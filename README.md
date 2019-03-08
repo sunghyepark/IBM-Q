@@ -28,11 +28,16 @@ https://quantumexperience.ng.bluemix.net/qx/editor?codeId=d09efa5f54314fc1ab8973
 https://qiskit.org/documentation/index.html
 
 -conda create -n name_of_my_env python=3 : 아나콘다로 python 가상 환경 설정
+
 -source activate name_of_my_env
+
 -conda list : 뭘 깔았는지 확인
 
+
 -pip install qiskit qiskit-aqua
+
 -pip install qiskit[visualization] qiskit-aqua
+
 
 * Git download
 

@@ -28,6 +28,7 @@ https://quantumexperience.ng.bluemix.net/qx/editor?codeId=d09efa5f54314fc1ab8973
 https://qiskit.org/documentation/index.html
 
 * QISKit 가상 환경 설정
+https://qiskit.org/documentation/install.html
 > conda create -n name_of_my_env python=3 : 아나콘다로 python 가상 환경 설정
 
 > conda activate name_of_my_env : 설정한 가상환경으로  
@@ -43,9 +44,8 @@ https://qiskit.org/documentation/index.html
 
 * Git 코드 download
 
-https://qiskit.org/documentation/install.html
 
-*** Terra (the code foundation, for composing quantum programs at the level of circuits and pulses)
+*** Terra (the code foundation, for composing quantum programs at the level of circuits and pulses)https://qiskit.org/documentation/install/terra.html#install-terra-source
 
 *** Aqua (for building algorithms and applications)
 

@@ -29,14 +29,14 @@ https://qiskit.org/documentation/index.html
 
 > conda create -n name_of_my_env python=3 : 아나콘다로 python 가상 환경 설정
 
--source activate name_of_my_env : 가상환경으로 
+> source activate name_of_my_env : 가상환경으로 
 
--conda list : 뭘 깔았는지 확인
+> conda list : 뭘 깔았는지 확인
 
 
--pip install qiskit qiskit-aqua
+> pip install qiskit qiskit-aqua
 
--pip install qiskit[visualization] qiskit-aqua
+> pip install qiskit[visualization] qiskit-aqua
 
 
 * Git download
@@ -52,6 +52,6 @@ https://qiskit.org/documentation/install.html
 *** Aer (for accelerating development via simulators, emulators and debuggers).
 
 * 혹은, 만일 여러분이 이미 Git을 설치했다면, 다음의 커맨드를 실행하세요:
->> git clone https://github.com/QISKit/qiskit-sdk-py
+> git clone https://github.com/QISKit/qiskit-sdk-py
 
->> cd qiskit-sdk-py
+> cd qiskit-sdk-py

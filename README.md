@@ -43,7 +43,7 @@ https://qiskit.org/documentation/install.html
 > pip install qiskit qiskit-aqua
 
 > pip install qiskit[visualization] qiskit-aqua ****설치못함. 
-
+-> >pip install -U 'qiskit[visualization]'
 
 
 * Git 코드 download

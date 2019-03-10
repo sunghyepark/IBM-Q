@@ -52,6 +52,10 @@ https://qiskit.org/documentation/install.html
 
 *** Terra (the code foundation, for composing quantum programs at the level of circuits and pulses)https://qiskit.org/documentation/install/terra.html#install-terra-source
 
+> conda create -y -n QiskitDevenv python=3
+
+> conda activate QiskitDevenv
+
 *** Aqua (for building algorithms and applications)
 
 *** Ignis (for addressing noise and errors)

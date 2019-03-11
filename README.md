@@ -76,6 +76,13 @@ https://github.com/Qiskit/qiskit-terra/blob/master/docs/ko/README.md
 ( > python setup.py build_ext
 
  > python setup.py install --user )
+ 
+
+>  pip install -e . : example 얻기
+
+> python examples/python/using_qiskit_terra_level_0.py : 실행할때
+
+> python setup.py install :  If you would like to install qiskit-terra onto your system, then call:
 
 
 *** Aqua (for building algorithms and applications)

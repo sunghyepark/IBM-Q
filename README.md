@@ -44,9 +44,9 @@ https://qiskit.org/documentation/install.html
 
 > pip install qiskit qiskit-aqua
 
-> pip install qiskit[visualization] qiskit-aqua  : use all the visualization functions available in Qiskit ****설치못함. 
+> pip install qiskit[visualization] qiskit-aqua  : use all the visualization functions available in Qiskit 
 
--> > pip install -U 'qiskit[visualization]' 
+( > pip install -U 'qiskit[visualization]' 로 해결)
 
 
 * Git 코드 download
@@ -73,9 +73,9 @@ https://github.com/Qiskit/qiskit-terra/blob/master/docs/ko/README.md
 
 > $ python setup.py build_ext --inplace : 필요한 모듈 부르기  ****설치못함. 
 
--> > python setup.py build_ext
+( > python setup.py build_ext
 
-python setup.py install --user
+ > python setup.py install --user )
 
 
 *** Aqua (for building algorithms and applications)

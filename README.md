@@ -52,6 +52,8 @@ https://qiskit.org/documentation/install.html
 
 *** Terra (the code foundation, for composing quantum programs at the level of circuits and pulses)https://qiskit.org/documentation/install/terra.html#install-terra-source
 
+https://github.com/Qiskit/qiskit-terra/blob/master/docs/ko/README.md
+
 > conda create -y -n QiskitDevenv python=3 : 가상환경 만들기
 
 > conda activate QiskitDevenv

@@ -51,6 +51,8 @@ https://qiskit.org/documentation/install.html
 
 * Git 코드 download
 
+> conda info --envs : 무슨 가상환경들이 있는지 확인.
+
 
 *** Terra (the code foundation, for composing quantum programs at the level of circuits and pulses)https://qiskit.org/documentation/install/terra.html#install-terra-source
 

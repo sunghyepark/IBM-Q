@@ -42,9 +42,9 @@ https://qiskit.org/documentation/install.html
 
 > pip install qiskit qiskit-aqua
 
-> pip install qiskit[visualization] qiskit-aqua ****설치못함. 
+> pip install qiskit[visualization] qiskit-aqua  : use all the visualization functions available in Qiskit ****설치못함. 
 
--> > pip install -U 'qiskit[visualization]'
+-> > pip install -U 'qiskit[visualization]' 
 
 
 * Git 코드 download
@@ -52,9 +52,22 @@ https://qiskit.org/documentation/install.html
 
 *** Terra (the code foundation, for composing quantum programs at the level of circuits and pulses)https://qiskit.org/documentation/install/terra.html#install-terra-source
 
-> conda create -y -n QiskitDevenv python=3
+> conda create -y -n QiskitDevenv python=3 : 가상환경 만들기
 
 > conda activate QiskitDevenv
+
+> cd qiskit-terra
+
+pip install -r requirements.txt
+
+pip install -r requirements-dev.txt
+
+> $ python setup.py build_ext --inplace : 필요한 모듈 부르기  ****설치못함. 
+
+-> > python setup.py build_ext
+
+python setup.py install --user
+
 
 *** Aqua (for building algorithms and applications)
 

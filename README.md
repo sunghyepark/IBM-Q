@@ -56,11 +56,14 @@ https://qiskit.org/documentation/install.html
 
 > conda activate QiskitDevenv
 
-> cd qiskit-terra
 
-pip install -r requirements.txt
 
-pip install -r requirements-dev.txt
+> cd qiskit-terra : 폴더 들어가서 필요한 라이브러리 설치
+
+> pip install -r requirements.txt 
+
+> pip install -r requirements-dev.txt
+
 
 > $ python setup.py build_ext --inplace : 필요한 모듈 부르기  ****설치못함. 
 

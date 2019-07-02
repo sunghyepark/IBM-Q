@@ -100,9 +100,11 @@ https://github.com/Qiskit/qiskit-terra/blob/master/docs/ko/README.md
 # 3. IBM Q Experience
 
 * Circuit Composer
-Explore the graphical interface for creating and testing circuits
+
+> Explore the graphical interface for creating and testing circuits
 
 * Qiskit Notebooks
-Create your first notebook and start using Qiskit
+
+> Create your first notebook and start using Qiskit
 
 https://quantum-computing.ibm.com/

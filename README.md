@@ -48,8 +48,8 @@ https://qiskit.org/documentation/install.html
     - pip install -r requirements.txt 
     - pip install -r requirements-dev.txt
     - $ python setup.py build_ext --inplace : 필요한 모듈 부르기  ****설치못함. 
-    - ( > python setup.py build_ext
-    - > python setup.py install --user )
+    - ( python setup.py build_ext )
+    - ( python setup.py install --user )
     -  pip install -e . : example 얻기
     - python examples/python/using_qiskit_terra_level_0.py : 실행할때
     -  python setup.py install :  If you would like to install qiskit-terra onto your system, then call:

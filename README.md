@@ -67,7 +67,7 @@ https://qiskit.org/documentation/install.html
 
 - Create a free IBM Q Experience account.
 - Copy : Token / Url
-- qiskitrc.py 
+- qiskitrc.py 생성
   - from qiskit import IBMQ
   - IBMQ.save_account('MY_API_TOKEN', 'MY_URL')
 

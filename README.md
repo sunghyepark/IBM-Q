@@ -42,61 +42,53 @@ https://qiskit.org/documentation/install.html
 
   - conda list : 뭘 깔았는지 확인
 
-** RemoveError: 'requests' is a dependency of conda and cannot be removed from -> conda update conda로 해결!
+  - ** RemoveError: 'requests' is a dependency of conda and cannot be removed from -> conda update conda로 해결!
 
   - pip install qiskit qiskit-aqua
 
   - pip install qiskit[visualization] qiskit-aqua  : use all the visualization functions available in Qiskit 
 
-  -( pip install -U 'qiskit[visualization]' 로 해결)
+  - ( pip install -U 'qiskit[visualization]' 로 해결)
 
 
 - Git 코드 download
 
-> conda info --envs : 무슨 가상환경들이 있는지 확인.
+    - conda info --envs : 무슨 가상환경들이 있는지 확인.
 
 
-*** Terra (the code foundation, for composing quantum programs at the level of circuits and pulses)https://qiskit.org/documentation/install/terra.html#install-terra-source
-
-https://github.com/Qiskit/qiskit-terra/blob/master/docs/ko/README.md
-
-> conda create -y -n QiskitDevenv python=3 : 가상환경 만들기
-
-> conda activate QiskitDevenv
-
-
-
-> cd qiskit-terra : 폴더 들어가서 필요한 라이브러리 설치
-
-> pip install -r requirements.txt 
-
-> pip install -r requirements-dev.txt
+- *** Terra (the code foundation, for composing quantum programs at the level of circuits and pulses)https://qiskit.org/documentation/install/terra.html#install-terra-source
+- https://github.com/Qiskit/qiskit-terra/blob/master/docs/ko/README.md
+    - conda create -y -n QiskitDevenv python=3 : 가상환경 만들기
+    - conda activate QiskitDevenv
+    - cd qiskit-terra : 폴더 들어가서 필요한 라이브러리 설치
+    - pip install -r requirements.txt 
+    - pip install -r requirements-dev.txt
 
 
-> $ python setup.py build_ext --inplace : 필요한 모듈 부르기  ****설치못함. 
+    - $ python setup.py build_ext --inplace : 필요한 모듈 부르기  ****설치못함. 
 
-( > python setup.py build_ext
+    - ( > python setup.py build_ext
 
- > python setup.py install --user )
+    - > python setup.py install --user )
  
 
->  pip install -e . : example 얻기
+    -  pip install -e . : example 얻기
 
-> python examples/python/using_qiskit_terra_level_0.py : 실행할때
+    - python examples/python/using_qiskit_terra_level_0.py : 실행할때
 
-> python setup.py install :  If you would like to install qiskit-terra onto your system, then call:
+    -  python setup.py install :  If you would like to install qiskit-terra onto your system, then call:
 
 
-*** Aqua (for building algorithms and applications)
+- *** Aqua (for building algorithms and applications)
 
-*** Ignis (for addressing noise and errors)
+- *** Ignis (for addressing noise and errors)
 
-*** Aer (for accelerating development via simulators, emulators and debuggers).
+- *** Aer (for accelerating development via simulators, emulators and debuggers).
 
 - 혹은, 만일 여러분이 이미 Git을 설치했다면, 다음의 커맨드를 실행하세요:
-> git clone https://github.com/QISKit/qiskit-sdk-py
+- git clone https://github.com/QISKit/qiskit-sdk-py
 
-> cd qiskit-sdk-py
+- cd qiskit-sdk-py
 
 
 ## 2)Aceess IBM Q Systems 

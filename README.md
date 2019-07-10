@@ -27,14 +27,14 @@ https://quantumexperience.ng.bluemix.net/qx/editor?codeId=d09efa5f54314fc1ab8973
 
 # 2. QISKit (Quantum Information Software Kit)
 
-## Install 
+## 1) Install 
 
-* QISKit은 OpenQASM과 IBM Q experience (QX)에서 사용할 수 있는 SDK(software development kit)입니다. 이번 항목에서는 Python으로 바로 프로그래밍을 하는 QISkit을 사용하는 방법을 배울 것입니다.
+- QISKit은 OpenQASM과 IBM Q experience (QX)에서 사용할 수 있는 SDK(software development kit)입니다. 이번 항목에서는 Python으로 바로 프로그래밍을 하는 QISkit을 사용하는 방법을 배울 것입니다.
 https://qiskit.org/documentation/index.html
 
 > git clone https://github.com/QISKit/**.git : 필요한 폴더 가져오기.
 
-* QISKit 가상 환경 설정
+- QISKit 가상 환경 설정
 https://qiskit.org/documentation/install.html
 > conda create -n name_of_my_env python=3 : 아나콘다로 python 가상 환경 설정
 
@@ -51,7 +51,7 @@ https://qiskit.org/documentation/install.html
 ( > pip install -U 'qiskit[visualization]' 로 해결)
 
 
-* Git 코드 download
+- Git 코드 download
 
 > conda info --envs : 무슨 가상환경들이 있는지 확인.
 
@@ -93,13 +93,14 @@ https://github.com/Qiskit/qiskit-terra/blob/master/docs/ko/README.md
 
 *** Aer (for accelerating development via simulators, emulators and debuggers).
 
-* 혹은, 만일 여러분이 이미 Git을 설치했다면, 다음의 커맨드를 실행하세요:
+- 혹은, 만일 여러분이 이미 Git을 설치했다면, 다음의 커맨드를 실행하세요:
 > git clone https://github.com/QISKit/qiskit-sdk-py
 
 > cd qiskit-sdk-py
 
 
-## Aceess IBM Q Systems 
+## 2)Aceess IBM Q Systems 
+
 
 # 3. IBM Q Experience
 

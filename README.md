@@ -41,7 +41,7 @@ https://qiskit.org/documentation/install.html
     - conda info --envs : 무슨 가상환경들이 있는지 확인.
 
 - *** Terra (the code foundation, for composing quantum programs at the level of circuits and pulses)https://qiskit.org/documentation/install/terra.html#install-terra-source
-- https://github.com/Qiskit/qiskit-terra/blob/master/docs/ko/README.md
+    - https://github.com/Qiskit/qiskit-terra/blob/master/docs/ko/README.md
     - conda create -y -n QiskitDevenv python=3 : 가상환경 만들기
     - conda activate QiskitDevenv
     - cd qiskit-terra : 폴더 들어가서 필요한 라이브러리 설치

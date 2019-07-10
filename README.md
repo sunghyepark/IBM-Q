@@ -86,9 +86,9 @@ https://qiskit.org/documentation/install.html
 - *** Aer (for accelerating development via simulators, emulators and debuggers).
 
 - 혹은, 만일 여러분이 이미 Git을 설치했다면, 다음의 커맨드를 실행하세요:
-- git clone https://github.com/QISKit/qiskit-sdk-py
+  - git clone https://github.com/QISKit/qiskit-sdk-py
 
-- cd qiskit-sdk-py
+  - cd qiskit-sdk-py
 
 
 ## 2)Aceess IBM Q Systems 
@@ -96,12 +96,11 @@ https://qiskit.org/documentation/install.html
 
 # 3. IBM Q Experience
 
-* Circuit Composer
+- Circuit Composer
 
-> Explore the graphical interface for creating and testing circuits
+  - Explore the graphical interface for creating and testing circuits
 
-* Qiskit Notebooks
+- Qiskit Notebooks
 
-> Create your first notebook and start using Qiskit
-
-https://quantum-computing.ibm.com/
+  - Create your first notebook and start using Qiskit
+  - https://quantum-computing.ibm.com/

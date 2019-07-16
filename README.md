@@ -70,6 +70,12 @@ https://qiskit.org/documentation/install.html
 - qiskitrc.py 생성
   - from qiskit import IBMQ
   - IBMQ.save_account('MY_API_TOKEN', 'MY_URL')
+  
+## 3)Checking Which Version is Installed
+- import qiskit
+- qiskit.__qiskit_version__
+
+  
 
 # 3. IBM Q Experience
 

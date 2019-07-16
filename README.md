@@ -87,7 +87,7 @@ https://qiskit.org/documentation/install.html
 ## 4)Getting started
 
   - https://qiskit.org/documentation/getting_started.html
-  - * visualization 전에 ; pip install matplotlib 필요
+  - ** visualization 전에, 'pip install matplotlib' 필요
   
 
 # 3. IBM Q Experience

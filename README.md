@@ -89,6 +89,10 @@ https://qiskit.org/documentation/install.html
   - https://qiskit.org/documentation/getting_started.html
   - ** visualization 전에, 'pip install matplotlib' 필요
   
+## 5)Quantum qiskit-sdk
+
+  - https://developer.ibm.com/code/2017/05/17/developers-guide-to-quantum-qiskit-sdk/
+  
 
 # 3. IBM Q Experience
 

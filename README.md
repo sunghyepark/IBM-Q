@@ -73,7 +73,7 @@ https://qiskit.org/documentation/install.html
   
 ## 3)Checking Which Version is Installed
 - import qiskit
-- qiskit.__qiskit_version__
+- qiskit.__qiskit_version__ 
 
   
 

@@ -35,7 +35,7 @@ https://qiskit.org/documentation/install.html
   - ** RemoveError: 'requests' is a dependency of conda and cannot be removed from -> conda update conda로 해결!
   - pip install qiskit qiskit-aqua
   - pip install qiskit[visualization] qiskit-aqua  : use all the visualization functions available in Qiskit 
-  - ( pip install -U 'qiskit[visualization]' 로 해결)
+  - ( pip install qiskit visualization 로 해결)
 
 - Git 코드 download
     - conda info --envs : 무슨 가상환경들이 있는지 확인.

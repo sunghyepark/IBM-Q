@@ -74,7 +74,15 @@ https://qiskit.org/documentation/install.html
 ## 3)Checking Which Version is Installed
 
  -  import qiskit
- -  qiskit.__ qiskit_version __
+ -  qiskit.__ qiskit_version __ (띄어쓰기 없음)
+ 
+  - 내 버전 : 
+    - {'qiskit': '0.11.1',
+      'qiskit-terra': '0.8.2',
+      'qiskit-ignis': '0.1.1',
+      'qiskit-aer': '0.2.3',
+      'qiskit-ibmq-provider': '0.3.0',
+       'qiskit-aqua': '0.5.2'}
 
   
 

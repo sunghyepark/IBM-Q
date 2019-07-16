@@ -72,10 +72,9 @@ https://qiskit.org/documentation/install.html
   - IBMQ.save_account('MY_API_TOKEN', 'MY_URL')
   
 ## 3)Checking Which Version is Installed
-.. code:: python
 
-   import qiskit
-   qiskit.__qiskit_version__
+ -  import qiskit
+ -  qiskit.__ qiskit_version __
 
   
 

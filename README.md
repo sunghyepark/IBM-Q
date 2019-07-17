@@ -29,6 +29,7 @@ https://qiskit.org/documentation/index.html
 
 - QISKit 가상 환경 설정
 https://qiskit.org/documentation/install.html
+https://qiskit.org/documentation/contributing_to_qiskit.html#install-install-from-source-label
   - conda create -n name_of_my_env python=3 : 아나콘다로 python 가상 환경 설정
   - conda activate name_of_my_env : 설정한 가상환경으로  
   - conda list : 뭘 깔았는지 확인
